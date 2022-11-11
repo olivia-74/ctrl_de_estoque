@@ -1,1 +1,26 @@
 
+.body {
+    background-color: #F2F2F2;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: flex;
+    margin: 0%;
+}
+
+/* barra cinza com o título */
+.header {
+    position:fixed;
+    width: 100%;
+    height: 15%;
+    left: 0px;
+    top: 0px;
+    background-color: #292929;
+    align-items: center;
+}
+
+.h1 {
+    color: #F2F2F2;
+    text-align: center;
+    margin-top: 2.5%;
+    font-family: 'Arial';
+    font-size:small;
+}
